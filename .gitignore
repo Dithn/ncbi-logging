@@ -4,3 +4,8 @@ IP2LO*
 postgresql-*tar.gz
 *.gcda
 *.result
+.vscode
+.gdb_history
+core
+1Mlines.txt.gz
+default.profraw
